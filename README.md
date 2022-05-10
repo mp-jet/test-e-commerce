@@ -16,6 +16,7 @@ $ npm run start:dev
 
 ## Required env variablev
 
+
 ```bash
 HOST
 PORT
